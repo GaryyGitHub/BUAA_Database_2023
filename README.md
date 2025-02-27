@@ -1,4 +1,4 @@
-# BUAA DataBase 2023
+# BUAA DataBase 2024
 
 北航软件学院2024春季学期 **数据管理技术** 课程个人仓库
 
